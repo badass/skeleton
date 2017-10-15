@@ -1,0 +1,12 @@
+{
+  "name": "badass/skeleton",
+  "description": "Skeleton",
+  "license": "BSD-2-Clause",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "Veaceslav Medvedev",
+      "email": "slavcopost@gmail.com"
+    }
+  ]
+}
